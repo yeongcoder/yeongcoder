@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 # 💪Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-3776AB.svg?&style=for-the-badge&logo=PHP&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-3178C6.svg?&style=for-the-badge&logo=Apache&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white)
 
-![Expressjs](https://img.shields.io/badge/Expressjs-E34F26.svg?&style=for-the-badge&logo=Expressjs&logoColor=white)
-![Moleculerjs](https://img.shields.io/badge/Moleculerjs-1572B6.svg?&style=for-the-badge&logo=Moleculerjs&logoColor=white)
-![Vuejs](https://img.shields.io/badge/Vuejs-4479A1.svg?&style=for-the-badge&logo=Vuejs&logoColor=white)
-![Reactjs](https://img.shields.io/badge/Reactjs-4479A1.svg?&style=for-the-badge&logo=Reactjs&logoColor=white)
-![React%20Native](https://img.shields.io/badge/React%20Native-4479A1.svg?&style=for-the-badge&logo=React%20Native&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-4479A1.svg?&style=for-the-badge&logo=Redis&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Expressjs-000000.svg?&style=for-the-badge&logo=Expressjs&logoColor=white)
+![Moleculerjs](https://img.shields.io/badge/Moleculerjs-3CAFCE.svg?&style=for-the-badge&logo=Moleculerjs&logoColor=white)
+![Vuejs](https://img.shields.io/badge/Vuejs-4FC08D.svg?&style=for-the-badge&logo=Vuejs&logoColor=white)
+![Reactjs](https://img.shields.io/badge/Reactjs-61DAFB.svg?&style=for-the-badge&logo=Reactjs&logoColor=white)
+![React%20Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?&style=for-the-badge&logo=React%20Native&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F80000.svg?&style=for-the-badge&logo=RabbitMQ&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?&style=for-the-badge&logo=RabbitMQ&logoColor=white)
 
