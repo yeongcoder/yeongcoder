@@ -16,3 +16,22 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongcoder)](https://solved.ac/yeongcoder)
+
+# 💪Skills
+### Platforms & Languages
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+
+![Expressjs](https://img.shields.io/badge/Expressjs-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
+![Moleculerjs](https://img.shields.io/badge/Moleculerjs-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
+![Vuejs](https://img.shields.io/badge/Vuejs-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Reactjs](https://img.shields.io/badge/Reactjs-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![ReactNative](https://img.shields.io/badge/ReactNative-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+
