@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 ![React%20Native](https://img.shields.io/badge/React%20Native-4479A1.svg?&style=for-the-badge&logo=React%20Native&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-4479A1.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-F80000.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-F80000.svg?&style=for-the-badge&logo=RabbitMQ&logoColor=white)
 
