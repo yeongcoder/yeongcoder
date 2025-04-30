@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Moleculerjs](https://img.shields.io/badge/Moleculerjs-1572B6.svg?&style=for-the-badge&logo=Moleculerjs&logoColor=white)
 ![Vuejs](https://img.shields.io/badge/Vuejs-4479A1.svg?&style=for-the-badge&logo=Vuejs&logoColor=white)
 ![Reactjs](https://img.shields.io/badge/Reactjs-4479A1.svg?&style=for-the-badge&logo=Reactjs&logoColor=white)
-![ReactNative](https://img.shields.io/badge/ReactNative-4479A1.svg?&style=for-the-badge&logo=ReactNative&logoColor=white)
+![React%20Native](https://img.shields.io/badge/React%20Native-4479A1.svg?&style=for-the-badge&logo=React%20Native&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-4479A1.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-F80000.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-F80000.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
