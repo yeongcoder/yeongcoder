@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![Express](https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 ![Moleculer](https://img.shields.io/badge/Moleculer-3CAFCE.svg?&style=for-the-badge&logo=Moleculer&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=Vue&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![React%20Native](https://img.shields.io/badge/React%20Native-61DAFB.svg?&style=for-the-badge&logo=React%20Native&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?&style=for-the-badge&logo=Redis&logoColor=white)
